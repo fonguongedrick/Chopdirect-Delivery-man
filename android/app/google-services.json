@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "190349280025",
+    "firebase_url": "https://thunt-79e7b-default-rtdb.firebaseio.com",
+    "project_id": "thunt-79e7b",
+    "storage_bucket": "thunt-79e7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190349280025:android:a690e2b2b409e460937b88",
+        "android_client_info": {
+          "package_name": "com.example.thunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190349280025-v626si0lc2ju5r80o32okcspg2pbiej0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thunt",
+            "certificate_hash": "237b5a5a5499f940c67742118f349853ce658864"
+          }
+        },
+        {
+          "client_id": "190349280025-5a8513222cugpp75ck6mnfq3o6chupop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmun71qlnQojNWl3Rjm3Kd0YVrL1VlNsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190349280025-5a8513222cugpp75ck6mnfq3o6chupop.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "190349280025-k0aoa5ad7p1akd751euek4t4gfd1rlqj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chopdirectDelivery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190349280025:android:4ccf394795b0aa07937b88",
+        "android_client_info": {
+          "package_name": "com.traitz.cdadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190349280025-5a8513222cugpp75ck6mnfq3o6chupop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmun71qlnQojNWl3Rjm3Kd0YVrL1VlNsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190349280025-5a8513222cugpp75ck6mnfq3o6chupop.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "190349280025-k0aoa5ad7p1akd751euek4t4gfd1rlqj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chopdirectDelivery"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190349280025:android:e9ce698825f1c1df937b88",
+        "android_client_info": {
+          "package_name": "com.traitz.chopdirect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190349280025-5a8513222cugpp75ck6mnfq3o6chupop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmun71qlnQojNWl3Rjm3Kd0YVrL1VlNsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190349280025-5a8513222cugpp75ck6mnfq3o6chupop.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "190349280025-k0aoa5ad7p1akd751euek4t4gfd1rlqj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chopdirectDelivery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
